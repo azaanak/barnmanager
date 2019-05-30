@@ -15,8 +15,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Coming Soon</h1>
         <p> Hi there! Thanks for stopping by. We’re a Toronto based IT Service Provider. Check back soon for our new website!.</p>
-        <a href="mailto:imran_ali_khan@hotmail.com">
-          imran_ali_khan@hotmail.com
+        <a href="mailto:imran.ali@shayzaan.com">
+          imran.ali@shayzaan.com
         </a>
       </header>
     </div>
